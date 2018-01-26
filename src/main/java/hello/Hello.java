@@ -33,4 +33,8 @@ public class Hello {
 	public void method6() {
 
 	}
+
+	public void method7() {
+
+	}
 }
