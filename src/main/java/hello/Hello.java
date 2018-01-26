@@ -25,4 +25,8 @@ public class Hello {
 	public void method4() {
 
 	}
+
+	public void method5() {
+
+	}
 }
