@@ -11,7 +11,7 @@ public class Hello {
 	}
 
 	public void method1() {
-
+		throw new RuntimeException();
 	}
 
 	public void method2() {
@@ -19,6 +19,10 @@ public class Hello {
 	}
 
 	public void method3() {
+
+	}
+
+	public void method4() {
 
 	}
 }
