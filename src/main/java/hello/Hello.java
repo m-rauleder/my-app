@@ -9,4 +9,8 @@ public class Hello {
 	public static String helloWorld() {
 		return "Hello World!";
 	}
+
+	public void method1() {
+
+	}
 }
