@@ -6,4 +6,8 @@ public class SuchFeature {
 
 		return "Such feature, much wow.";
 	}
+
+	public static void veryFascinate() {
+
+	}
 }
