@@ -9,5 +9,6 @@ public class SuchFeature {
 
 	public static void veryFascinate() {
 
+		System.out.println("Output 1");
 	}
 }
