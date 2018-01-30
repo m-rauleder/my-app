@@ -11,6 +11,7 @@ public class SuchFeature {
 
 		System.out.println("Output 1");
 		System.out.println("Output 2");
+		System.out.println();
 		System.out.println("Putput 3");
 	}
 }
